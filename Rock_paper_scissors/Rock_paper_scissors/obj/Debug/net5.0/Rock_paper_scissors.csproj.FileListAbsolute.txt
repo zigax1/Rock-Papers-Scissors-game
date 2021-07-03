@@ -1,0 +1,16 @@
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\net5.0\Rock_paper_scissors.exe
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\net5.0\Rock_paper_scissors.deps.json
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\net5.0\Rock_paper_scissors.runtimeconfig.json
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\net5.0\Rock_paper_scissors.runtimeconfig.dev.json
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\net5.0\Rock_paper_scissors.dll
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\net5.0\ref\Rock_paper_scissors.dll
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\bin\Debug\net5.0\Rock_paper_scissors.pdb
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\net5.0\Rock_paper_scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\net5.0\Rock_paper_scissors.AssemblyInfoInputs.cache
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\net5.0\Rock_paper_scissors.AssemblyInfo.cs
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\net5.0\Rock_paper_scissors.csproj.CoreCompileInputs.cache
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\net5.0\Rock_paper_scissors.dll
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\net5.0\ref\Rock_paper_scissors.dll
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\net5.0\Rock_paper_scissors.pdb
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\net5.0\Rock_paper_scissors.genruntimeconfig.cache
+C:\Users\zigas\source\repos\Rock_paper_scissors\Rock_paper_scissors\obj\Debug\net5.0\Rock_paper_scissors.csproj.AssemblyReference.cache
